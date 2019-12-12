@@ -102,6 +102,7 @@ useage: [--pretrained_model_path] - Path to the pre-trained model parameters.
 ### Classification benchmarks
 
 Accuracy (dev/test %) on different dataset:
+
 | Dataset       | HowNet       | CnDbpedia     |
 | :-----        | :----:       | :----:        |
 | Book review   | 88.75/87.75  | 88.80/87.69   |
@@ -117,6 +118,7 @@ Accuracy (dev/test %) on different dataset:
 ### NER example
 
 Run an example on the msra_ner dataset with CnDbpedia:
+
 ```
 CUDA_VISIBLE_DEVICES='0' nohup python3 -u run_kbert_ner.py \
     --pretrained_model_path ./models/google_model.bin \
