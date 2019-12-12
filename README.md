@@ -156,6 +156,7 @@ useage: [--pretrained_model_path] - Path to the pre-trained model parameters.
 ## K-BERT for domain-specific tasks
 
 Experimental results on domain-specific tasks (Precision/Recall/F1 %):
+
 | KG            | Finance_QA         | Law_QA              | Finance_NER        | Medicine_NER        |
 | :-----        | :----:             | :----:              | :----:             | :----:              |
 | HowNet        |  0.805/0.888/0.845 | 0.842/0.903/0.871   | 0.860/0.888/0.874  | 0.935/0.939/0.937   |
