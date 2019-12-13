@@ -3,14 +3,10 @@
 
 Sorce code and datasets for ["K-BERT: Enabling Language Representation with Knowledge Graph"](https://arxiv.org/abs/1909.07606v1).
 
+More details about UER framework, please see [here](https://github.com/dbiir/UER-py).
+
 
 ## Requirements
-
-Hardware:
-```
-Memory >= 32G
-GPU Memory >= 24G
-```
 
 Software:
 ```
