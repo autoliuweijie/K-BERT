@@ -1,9 +1,7 @@
 # K-BERT
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
-Sorce code and datasets for ["K-BERT: Enabling Language Representation with Knowledge Graph"](https://arxiv.org/abs/1909.07606v1).
-
-More details about UER framework, please see [here](https://github.com/dbiir/UER-py).
+Sorce code and datasets for ["K-BERT: Enabling Language Representation with Knowledge Graph"](https://arxiv.org/abs/1909.07606v1), which is implemented based on the [UER](https://github.com/dbiir/UER-py) framework.
 
 
 ## Requirements
