@@ -3,6 +3,10 @@
 
 Sorce code and datasets for ["K-BERT: Enabling Language Representation with Knowledge Graph"](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuW.5594.pdf), which is implemented based on the [UER](https://github.com/dbiir/UER-py) framework.
 
+**News**
+
+- [EasyNLP](https://github.com/alibaba/EasyNLP)·integrated·the·K-BERT.·For·details,·see·[EasyNLP集成K-BERT算法，借助知识图谱实现更优Finetune](https://zhuanlan.zhihu.com/p/553816104).
+
 
 ## Requirements
 
